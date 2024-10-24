@@ -1,7 +1,7 @@
 # Matrix using *C*
 
 
-![TopPicture](../DCIM/pic-0.jpg?raw=true "THE BEGINING")
+![TopPicture](DCIM/pic-0.jpg?raw=true "THE BEGINING")
 
 ## Contents  
 
